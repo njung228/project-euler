@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #Project Euler Portfolio
 
 This is a collection of my solutions for Project Euler Problems 1-100, as I develop my skills in mathematical problem-solving with python. 
